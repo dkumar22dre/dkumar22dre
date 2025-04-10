@@ -1,18 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Devesh Kumar  
+### 🚀 Database Engineer | Data Architect | Performance Tuner  
 
-My name is DEVESH KUMAR, I'm Currently working as Senior Software Engineer in the Database Reliability Team (DRE). I enjoy working on Database related issues, deploying infrastructure on Cloud, doing 
-automation, improving deliverables.
-<!--
-**dkumar22dre/dkumar22dre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Location: Bengaluru, India.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate database engineer with a strong focus on designing, optimizing, and maintaining robust database systems. With a deep understanding of relational and non-relational databases, I specialize in ensuring data integrity, scalability, and performance for mission-critical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Expertise
+
+### Databases & Technologies:
+- **Relational Databases**: PostgreSQL, MySQL, Oracle
+- **NoSQL Databases**: MongoDB
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Database Tools**: pgAdmin
+
+### Core Competencies:
+- Database Design & Architecture
+- Backup & Disaster Recovery Strategies
+- High Availability & Replication
+- Database Security & Compliance
+
+---
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkumar22dre&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkumar22dre&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Devesh Kumar](https://www.linkedin.com/in/deveshkumar-dba)
+- **Email**: [devesh1.kumar@wbd.com](mailto:devesh1.kumar@wbd.com)
+
+---
+
+### 💡 Fun Fact
+When I'm not optimizing databases, you can find me exploring new cuisines, playing chess, or diving into the latest tech trends!
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀
