@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate database engineer with a strong f
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkumar22dre&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkumar22dre&show_icons=true&theme=holi)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkumar22dre&layout=compact&theme=radical)
 
 ---
