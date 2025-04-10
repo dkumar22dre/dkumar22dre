@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is DEVESH KUMAR, I'm Currently working as Senior Software Engineer in the Database Reliability Team (DRE). I enjoy working on Database related issues, deploying infrastructure on Cloud, doing 
+automation, improving deliverables.
 <!--
 **dkumar22dre/dkumar22dre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
